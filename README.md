@@ -11,12 +11,8 @@
 - Retrieve client system info
 - Mouse simulation on client
 - Capture client screen (Screenhot)
-- Execute custom python scripts which return whatever you print to screen
-- Screenshots
 - Virtual machine detection
 - Download/Upload files to and from the target system
-- Attempt to dump the systems password hashes
-- Payloads' properties are "disguised" as other known programs
 
 
 ## License
